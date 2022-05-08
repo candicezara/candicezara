@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @candicezara
+- I am 10 yrs old
 - 👀 I’m interested in programming languages especially python!
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python games and apps.
